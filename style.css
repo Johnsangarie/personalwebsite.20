@@ -1,0 +1,135 @@
+body{
+  background-color: #071330;
+}
+h1 {
+font-family: 'Montserrat, sans-serif';
+font-size: 3rem;
+line-height: 1.5;
+font-weight: 900;
+}
+
+.container-fluid{
+  padding: 0.1rem 8%;
+}
+.navbar{
+  background-color:#0C4160
+}
+
+
+
+.static{
+  color: white;
+  font-size: 3rem
+}
+
+section{
+background: url("background.jpg") no-repeat center ;
+  height: 38rem;
+
+}
+.name{
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 5rem
+
+
+}
+
+span{
+  color: #1DE9B6;
+  font-family: 'Merriweather', serif;
+}
+
+h2{
+  color: #1DE9B6;
+  margin: 5rem 0rem;
+
+}
+
+
+
+
+.card-text{
+line-height: 250%;
+margin-top: 5rem;
+}
+
+
+.about-text{
+
+  color: white;
+  align-text: left;
+}
+.col{
+  height: 25rem;
+  width: 30rem;
+  background-color: #071330;
+  margin-top: 5rem;
+
+}
+
+.card-img{
+  opacity: .2;
+  height: 22rem;
+
+}
+.image-test{
+  margin-top: 5rem;
+  line-height: 200%
+}
+hr{
+  color: #1DE9B6;
+  border-top: dotted 2.5px;
+}
+.portfolio{
+text-align: center;
+  margin-bottom: 1rem;
+}
+
+.center{
+  margin: 1rem 10rem;
+}
+
+.card {
+
+  margin: 0 auto;
+}
+.d-flex{
+ color:#1DE9B6;
+
+
+}
+
+h3{
+  color: white;
+}
+
+small{
+  margin-left: 5rem;
+}
+
+h4 {
+  color: white;
+  margin: 0 0 0 4rem;
+}
+
+.resume{
+  text-decoration: none;
+}
+
+.fas{
+  width: 1.3rem;
+  position: relative;
+  right: 0.8rem;
+  top:1.6rem;
+  background-color: :#1DE9B6;
+
+}
+.contact-text{
+  color: white;
+}
+
+.contact-email{
+  color: white;
+}
