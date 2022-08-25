@@ -6,6 +6,7 @@ font-family: 'Montserrat, sans-serif';
 font-size: 3rem;
 line-height: 1.5;
 font-weight: 900;
+padding: 5rem 0rem 0rem 0rem;
 }
 
 .container-fluid{
@@ -24,7 +25,8 @@ font-weight: 900;
 
 section{
 background: url("background.jpg") no-repeat center ;
-  height: 38rem;
+  height: 45rem;
+
 
 }
 .name{
@@ -43,9 +45,10 @@ span{
 
 h2{
   color: #1DE9B6;
-  margin: 5rem 0rem;
+  margin: 3rem 0rem;
 
 }
+
 
 
 
@@ -121,15 +124,24 @@ h4 {
 .fas{
   width: 1.3rem;
   position: relative;
-  right: 0.8rem;
+  right: 0.65rem;
   top:1.6rem;
   background-color: :#1DE9B6;
 
 }
-.contact-text{
-  color: white;
+
+
+.end_line{
+
+  margin-top: 2rem;
+  height: 2.5rem;
+  background-color:  #1DE9B6;
 }
 
-.contact-email{
-  color: white;
+.form-label{
+  color:#1DE9B6;
+}
+.form-control{
+  background-color: #071330;
+  color: #071330;
 }
