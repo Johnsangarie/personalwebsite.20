@@ -1,4 +1,4 @@
 # personalwebsite.20
 
-* using Bootscrap 
-* html and CSS 
+* using Bootscrap 5
+* html and CSS
