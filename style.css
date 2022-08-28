@@ -185,6 +185,7 @@ h4 {
 }
 
 @media (max-width: 1653px) {
+
   .navbar-brand{
     position: relative;
     left: -4em;
@@ -193,5 +194,25 @@ h4 {
     .nav-item  {
        position: relative;
        left: 15.5rem;
+
+}
+
+@media (max-width: 653px){
+  .navbar-brand{
+    position: relative;
+    left: -1.5rem;
+    font-size: 1.5rem;}
+  .name, .static{
+    font-size: 3rem;
+  }
+  .nav-item  {
+     position: relative;
+     left: -3rem; }
+  .get_touch{
+       margin-top: 5rem;
+
+
+    }
+
 
 }
