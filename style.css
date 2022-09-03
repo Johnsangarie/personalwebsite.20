@@ -53,6 +53,12 @@ background: url("background.jpg") no-repeat center ;
 
 }
 
+.vr{
+  color: #1DE9B6;
+  width: 1rem;
+  height: 50rem;
+}
+
 span{
   color: #1DE9B6;
   font-family: 'Merriweather', serif;
@@ -63,7 +69,9 @@ h2{
   margin: 3rem 0rem;
 
 }
-
+.experience_text{
+  color: #1DE9B6;
+}
 
 
 
@@ -109,15 +117,7 @@ text-align: center;
   margin: 1rem 10rem;
 }
 
-.card {
 
-  margin: 0 auto;
-}
-.d-flex{
- color:#1DE9B6;
-
-
-}
 
 h3{
   color: white;
@@ -129,7 +129,7 @@ small{
 
 h4 {
   color: white;
-  margin: 0 0 0 4rem;
+
 }
 
 .resume{
@@ -143,6 +143,9 @@ h4 {
   top:1.6rem;
   background-color: :#1DE9B6;
 
+}
+.fa-dot-circle{
+  color: #1DE9B6;
 }
 
 
@@ -176,12 +179,13 @@ h4 {
 .small{
    color: #071330;
 }
-.discussiong_image{
+.discussion_image{
   margin-left: 0.1rem;
 }
 
-.mb-1{
-  font-size: 1.2rem;
+
+.get_touch{
+  margin-top: 30rem;
 }
 
 @media (max-width: 1653px) {
@@ -194,6 +198,7 @@ h4 {
     .nav-item  {
        position: relative;
        left: 15.5rem;
+
 
 }
 
@@ -209,10 +214,32 @@ h4 {
      position: relative;
      left: -2rem; }
   .get_touch{
-       margin-top: 5rem;
+       margin-top: 30rem;}
+
+  .discussion_image{
+    height:100px;
+    width:100px;
+
+  }
 
 
-    }
 
 
+
+
+
+
+}
+
+em{
+  color: #A62349;
+
+}
+
+.work_dates{
+
+    color: #A62349;
+}
+.work_titles{
+  margin-left:0.5em;
 }
