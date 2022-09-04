@@ -181,11 +181,25 @@ h4 {
 }
 .discussion_image{
   margin-left: 0.1rem;
+  width:500px;
+  height:600px;
+  border: 5px solid #555;
 }
 
 
 .get_touch{
   margin-top: 30rem;
+}
+em{
+  color: #A62349;
+
+}
+.work_dates{
+
+    color: #A62349;
+}
+.work_titles{
+  margin-left:0.5em;
 }
 
 @media (max-width: 1653px) {
@@ -201,7 +215,7 @@ h4 {
 
 
 }
-
+}
 @media (max-width: 653px){
   .navbar-brand{
     position: relative;
@@ -215,31 +229,15 @@ h4 {
      left: -2rem; }
   .get_touch{
        margin-top: 30rem;}
-
-  .discussion_image{
-    height:100px;
-    width:100px;
-
-  }
-
-
-
-
-
-
-
+  
 
 }
 
-em{
-  color: #A62349;
+@media (max-width: 374px){
+
+.discussion_image{
+  height:50rem;
+  width:100px;
 
 }
-
-.work_dates{
-
-    color: #A62349;
-}
-.work_titles{
-  margin-left:0.5em;
 }
