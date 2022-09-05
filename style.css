@@ -188,7 +188,7 @@ h4 {
 
 
 .get_touch{
-  margin-top: 30rem;
+  margin-top: 10rem;
 }
 em{
   color: #A62349;
@@ -202,11 +202,11 @@ em{
   margin-left:0.5em;
 }
 
-@media (min-width: 1653px) {
+@media (max-width: 1653px) {
 
   .navbar-brand{
     position: relative;
-    left: 2rem;
+    left: -4.5rem;
     font-size: 1.5rem;}
 .get_touch{
   margin-top: 30rem;
