@@ -247,3 +247,14 @@ em{
 
 
 }
+
+@media (max-width: 375px){
+
+    .get_touch{
+      margin-top: 50rem;
+    }
+
+
+
+
+}
