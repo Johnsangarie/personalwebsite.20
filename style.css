@@ -102,6 +102,7 @@ margin-top: 5rem;
 }
 .card{
   background-color:  #071330;
+  background-image: radial-gradient(650px circle at 0% 100%, #1DE9B6, transparent 30%  );
 }
 
 li{
@@ -268,10 +269,19 @@ em{
 
 }
 
-h5, .lead{
+h5 {
   color: white;
+  font-weight: bold;
+}
+
+.lead{
+  color:#EEF1FF;
 }
 
 .github_b{
   margin: 2rem 0rem;
+}
+
+.port_1, .port_2, .skill_left, .skill_right, .skill_middle{
+  margin: 5rem 0rem;
 }
