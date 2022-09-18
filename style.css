@@ -100,6 +100,13 @@ margin-top: 5rem;
   height: 30rem;
 
 }
+.card{
+  background-color:  #071330;
+}
+
+li{
+  color: white;
+}
 .image-test{
   margin-top: 5rem;
   line-height: 200%
@@ -246,6 +253,8 @@ em{
   }
 
 
+
+
 }
 
 @media (max-width: 375px){
@@ -261,4 +270,8 @@ em{
 
 h5, .lead{
   color: white;
+}
+
+.github_b{
+  margin: 2rem 0rem;
 }
